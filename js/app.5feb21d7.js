@@ -204,7 +204,7 @@
 		},
 		"KYC", -1),
 		A = Object(a["g"])("a", {
-			href: "https://github.com/Tech-Audit/Smart-Contract-Audits/blob/main/TECHAUDIT_LOVELY%20FLOKI.pdf",
+			href: "https://github.com/AuditRateTech/Smart-Contract-Audits/blob/main/BitLibra_0x7F044c2F8AcA499a0d102aA6f259Df41d8624c0C.pdf",
 			class: "is-flex tag is-small mr-2",
 			target: "_blank",
 			rel: "noopener nofollow noreferrer",
