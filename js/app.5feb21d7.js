@@ -1034,7 +1034,7 @@
 		nt = Object(a["g"])("tr", null, [Object(a["g"])("td", null, "Sale type"), Object(a["g"])("td", {
 			class: "has-text-right has-text-primary"
 		},
-		"Public")], -1),
+		"Whitelist Only")], -1),
 		at = Object(a["g"])("td", null, "Minimum Buy", -1),
 		st = {
 			class: "has-text-right"
