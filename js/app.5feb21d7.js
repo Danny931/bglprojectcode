@@ -198,14 +198,14 @@
 		},
 		S = Object(a["g"])("a", {
 			href: "https://docs.pinksale.finance/important/kyc-and-audit-at-pinksale",
-			class: "is-flex tag is-success is-small mr-2",
+			class: "",
 			target: "_blank",
 			rel: "noopener nofollow noreferrer"
 		},
-		"KYC", -1),
+		"", -1),
 		A = Object(a["g"])("a", {
 			href: "https://github.com/AuditRateTech/Smart-Contract-Audits/blob/main/BitLibra_0x7F044c2F8AcA499a0d102aA6f259Df41d8624c0C.pdf",
-			class: "is-flex tag is-small mr-2",
+			class: "",
 			target: "_blank",
 			rel: "noopener nofollow noreferrer",
 			style: {
@@ -213,7 +213,7 @@
 				color: "rgb(255, 255, 255)"
 			}
 		},
-		"AUDIT", -1),
+		"", -1),
 		B = {
 			class: "status-wrapper"
 		},
